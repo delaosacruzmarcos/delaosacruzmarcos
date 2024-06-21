@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt_text](https://i.imgur.com/2v81naS.jpg)
+![alt_text](https://imgur.com/14t3RVA)
 <!--
 **delaosacruzmarcos/delaosacruzmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
