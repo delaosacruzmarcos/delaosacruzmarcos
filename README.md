@@ -1,3 +1,5 @@
+![alt_Text](https://imgur.com/a/SQ5atDD)
+
 # Hi there 👋
 As an embedded programer with a curiosity for higher level frameworks I have an (overly) abitious amount of projects I want to implement. 
 
